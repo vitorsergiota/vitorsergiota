@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Cybersecurity @ ESTG
 - 💞️ I’m looking to collaborate on Cybersecurity Projects
-- 📫 How to reach me - vitorsergiota@hgmail.com
+- 📫 How to reach me - vitorsergiota@gmail.com
 
 <!---
 vitorsergiota/vitorsergiota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
